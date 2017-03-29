@@ -1,4 +1,21 @@
 syntax on
-set shiftwidth=3 tabstop=4 expandtab
-set incsearch ignorecase hlsearch
+set shiftwidth=4 
+set tabstop=4 
+set smarttab
+set expandtab
+set smartindent
+set ai
+set ci
+set showmatch
+set incsearch 
+set ignorecase 
+set hlsearch
+set paste
+set pastetoggle=
+set number
+syntax on
+set foldmethod=syntax
+set foldcolumn=3
+set cursorline 
+set cursorcolumn
 colorscheme murphy
